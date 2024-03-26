@@ -36,7 +36,7 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Prb9008/todo-list-main.git
+   git clone git@github.com:Prb9008/todo-list-main.git
    ```
 
 2. **Navigate to the Project Directory:**
